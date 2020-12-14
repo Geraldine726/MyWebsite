@@ -16,7 +16,7 @@ body {
 
 .banner-intro {
 	border: 1px solid pink;
-	padding: 100px;
+	padding: 70px;
 	border-top: none;
 }
 
@@ -76,6 +76,7 @@ nav a {
 .content-area {
 	width: 100%;
 	position: relative;
+	display: inline-block;
 	top: 450px;
 	background: #ebebeb;
 	height: 1500px;
