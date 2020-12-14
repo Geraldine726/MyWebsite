@@ -83,3 +83,43 @@ nav a {
 	font-family: poppins;
 	line-height: 30px;
 }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 120px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.photo-area {
+	display: inline-block;
+}
+
+.photo-area img {
+	padding: 30px;
+}
+
+.banner-software {
+	font-family: poppins;
+	letter-spacing: 5px;
+	color: gray;
+	font-size: 25px;
+}
+
+.banner-texteditor {
+	font-family: poppins;
+	letter-spacing: 5px;
+	color: gray;
+	font-size: 25px;
+}
+
