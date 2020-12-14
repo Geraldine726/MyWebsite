@@ -9,6 +9,17 @@ body {
 	width: 1170px;
 	margin: 0 auto;
 }
+.wrapper img {
+	display: inline-block;
+	border-radius: 50%;
+}
+
+.banner-intro {
+	border: 1px solid pink;
+	padding: 100px;
+	border-top: none;
+}
+
 header {
 	height: 100px;
 	background: #262626;
@@ -46,11 +57,9 @@ nav a {
 	position: fixed;
 	top: 100px;
 	background-image: url(images/dine.jpg);
-	/*
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-position: center center;
-	*/
   	background-repeat: no-repeat;
   	background-attachment: fixed;
   	background-size: 100% 100%;
@@ -123,3 +132,9 @@ tr:nth-child(even) {
 	font-size: 25px;
 }
 
+.banner-me {
+	font-family: poppins;
+	letter-spacing: 5px;
+	color: gray;
+	font-size: 25px;
+}
