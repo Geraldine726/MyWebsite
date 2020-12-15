@@ -133,6 +133,13 @@ tr:nth-child(even) {
 	font-size: 25px;
 }
 
+.banner-hardware{
+	font-family: poppins;
+	letter-spacing: 5px;
+	color: gray;
+	font-size: 25px;
+}
+
 .banner-me {
 	font-family: poppins;
 	letter-spacing: 5px;
